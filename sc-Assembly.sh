@@ -2,7 +2,7 @@
 # For sc-Assembly
 # Scripts are provided for transparency
 # Need be modified to fit other datasets
-# Updated on Feb 14, 2022
+# Updated on Apr 10, 2022
 # 
 # Copyright (c) 2022, Haoling Xie, TangLab@PKU
 # 
