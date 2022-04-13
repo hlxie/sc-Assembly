@@ -69,6 +69,7 @@ wtdbg2 \
 -i *cell_reads.fastq.gz \
 -fo asm_result
 
+##we used wtpoa-cns to polish the initial assemblies of wtdbg2
 wtpoa-cns -t 20 -i asm.ctg.lay.gz -fo asm.ctg.fa
 
 minimap2 -t 16 -ax map-pb -r 2k asm.ctg.fa *cell_reads.fastq.gz |samtools sort -@ 16 > asm.ctg.bam
@@ -96,6 +97,7 @@ wtdbg2 \
 -i *cell_reads.fastq.gz \
 -fo asm_result
 
+##we used wtpoa-cns to polish the initial assemblies of wtdbg2
 wtpoa-cns -t 20 -i asm.ctg.lay.gz -fo asm.ctg.fa
 
 minimap2 -t16  -ax map-pb -r2k asm.ctg.fa *cell_reads.fastq.gz | samtools sort -@ 16 > asm.ctg.bam
