@@ -9,4 +9,4 @@ Using single-cell long-read sequencing technology (SMOOTH-seq), we have sequence
 
 Citation
 --------
-[Haoling Xie, Wen Li, Yuqiong Hu, Cheng Yang, Jiansen Lu, Yuqing Guo, Lu Wen, Fuchou Tang; De novo assembly of human genome at single-cell levels. 2022]()
+[(Haoling Xie, Wen Li, Yuqiong Hu, Cheng Yang, Jiansen Lu, Yuqing Guo, Lu Wen, Fuchou Tang, De novo assembly of human genome at single-cell levels, Nucleic Acids Research, 2022)[https://doi.org/10.1093/nar/gkac586]
